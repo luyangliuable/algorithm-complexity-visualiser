@@ -3,7 +3,10 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Algorithm visualizer](#algorithm-visualizer**
+- [Algorithm visualizer](#algorithm-visualizer)
+    - [Milestones](#milestones)
+    - [How to use](#how-to-use)
+    - [Dependencies](#dependencies)
 
 <!-- markdown-toc end -->
 
